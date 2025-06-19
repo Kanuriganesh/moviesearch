@@ -52,6 +52,9 @@ body{
     position: relative;
 } 
 
+html, body {
+  overflow-x: hidden; /* prevent horizontal scroll */
+}
 
 
 .search-container {
