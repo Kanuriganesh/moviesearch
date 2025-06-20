@@ -183,3 +183,10 @@ h1{
 .whishlistpara{
   min-width: 90px;
 }
+
+.para{
+  text-align: center; 
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: bold;
+}
